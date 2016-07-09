@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en" data-ng-app="App">
+	<head>
+		<meta charset="UTF-8">
+
+		<script type="text/javascript" src="js/dtagent635_gjpqtx_1025.js" data-dtconfig="tp=500,50,0|reportUrl=http://192.168.56.1:81/dynaTraceMonitor"></script>
+		
+		<title>Freshly Pressed</title>
+		
+		<!-- Ionic Library -->
+		<link rel="stylesheet" href="lib/ionic/css/ionic.css">
+		<script type="text/javascript" src="lib/ionic/js/ionic.bundle.js"></script>
+		
+		<!-- My Application -->
+		<link rel="stylesheet" href="css/style.css">
+		<script type="text/javascript" src="js/app.js"></script>
+	</head>
+	<body data-ng-controller="AppCtrl">
+		<ion-header-bar class="bar-balanced">
+			<h1 class="title">Freshly Pressed!</h1>
+			<button class="button" data-ng-click="refresh()">
+			<i class="icon ion-refresh"></i>
+			</button>
+		</ion-header-bar>
+		<ion-content>
+			<div class="card list" data-ng-repeat="p in posts">
+				<div class="item item-avatar-left">
+					<img data-ng-src="{{ p.author.avatar_URL }}" alt="">
+					<h2>{{ p.author.nice_name }}</h2>
+					<p><a href="{{ p.author.URL }}" target="_blank">{{ p.author.URL }}</a></p>
+				</div>
+				<div class="item item-body">
+					<h1>{{ p.title }}</h1>
+					<div data-ng-bind-html="p.content"></div>
+				</div>
+			</div>
+		</ion-content>
+		<script type="text/javascript" src="cordova.js"></script>
+	</body>
+</html>
