@@ -7,7 +7,7 @@ Bert also created a [YouTube Tutorial](https://www.youtube.com/watch?v=uLIuPeFbX
 ![](https://github.com/Dynatrace/Android-Hybrid-App-Sample/blob/master/images/HybridClinic1.PNG)
 
 The final result is that every single user of the app and all their user actions are captured with Dynatrace UEM. In this scenario he even instrumented the server-side Spring Boot Microservice which gave him full end-to-end visibility: from Mobile to Microservice:
-![](https://github.com/Dynatrace/Android-Hybrid-App-Sample/blob/master/images/visit-fp-browser.png)
+![](https://github.com/Dynatrace/Android-Hybrid-App-Sample/blob/master/images/HybridClinic2.PNG)
 
 Here are the links to the tutorials and other important items
 * [Dynatrace Performance Clinic Tutorial on YouTube](https://www.youtube.com/watch?v=uLIuPeFbXBA&index=46&list=PLqt2rd0eew1bmDn54E2_M2uvbhm_WxY_6)
