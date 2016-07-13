@@ -6,6 +6,7 @@ Bert wanted to show how easy it is to instrument a Mobile Hybrid App with Dynatr
 Bert also created a [YouTube Tutorial](https://www.youtube.com/watch?v=uLIuPeFbXBA&index=46&list=PLqt2rd0eew1bmDn54E2_M2uvbhm_WxY_6) with the end result of having the instrumented app delivering Dynatrace UEM Data
 ![](https://github.com/Dynatrace/Android-Hybrid-App-Sample/blob/master/images/visit-fp-browser.png)
 
-Here are the links to the tutorials
-* [Dynatrace Performance Clinic Tutorial on YouTube](http://bit.ly/dttutorials)
-* [Blog Post on apmblog.dynatrace.com](http://apmblog.dynatrace.com)
+Here are the links to the tutorials and other important items
+* [Dynatrace Performance Clinic Tutorial on YouTube](https://www.youtube.com/watch?v=uLIuPeFbXBA&index=46&list=PLqt2rd0eew1bmDn54E2_M2uvbhm_WxY_6)
+* [Blog Posts on apmblog.dynatrace.com](http://apmblog.dynatrace.com)
+* [Dynatrace Free Trial & Personal License](http://bit.ly/dtpersonal)
