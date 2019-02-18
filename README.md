@@ -11,5 +11,4 @@ The final result is that every single user of the app and all their user actions
 
 Here are the links to the tutorials and other important items
 * [Dynatrace Performance Clinic Tutorial on YouTube](https://www.youtube.com/watch?v=uLIuPeFbXBA&index=46&list=PLqt2rd0eew1bmDn54E2_M2uvbhm_WxY_6)
-* [Dynatrace Free Trial & Personal License](http://bit.ly/dtpersonal)
 * [Dynatrace Mobile ADK for Android and iOS](https://community.dynatrace.com/community/display/DOCDT63/Mobile+App+ADK)
